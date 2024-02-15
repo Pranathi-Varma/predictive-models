@@ -1,4 +1,4 @@
-# predictive-models
+
 # Predictive Models: Using Linear and Logistic Regression
 
 ## Introduction
