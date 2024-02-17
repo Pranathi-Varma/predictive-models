@@ -1,5 +1,5 @@
 
-# Predictive Models: Using Linear and Logistic Regression
+# Predictive Modelling: Using Linear and Logistic Regression
 
 ## Introduction
 
